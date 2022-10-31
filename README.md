@@ -31,4 +31,5 @@ Dentro del repositorio nos podemos encontrar con los datos mencionados previamen
 
 ## Ruta Github
 
+https://github.com/igonzalezgarcia/Practica_EDA_TICDATA.git
 
