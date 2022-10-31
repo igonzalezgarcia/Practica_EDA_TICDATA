@@ -1,7 +1,7 @@
-#------------------------------------------------------
+#
 # MUCD: Aprendizaje Automático
 # Prática TICDATASET Ignacio Gonzalez
-#------------------------------------------------------
+#
 
 A continuación detallaré una breve descripción de la práctica realizada: 
 
